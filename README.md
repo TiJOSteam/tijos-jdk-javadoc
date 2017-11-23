@@ -219,7 +219,7 @@ The other large part of the framework class in the TiJOS JDK is to operate on ha
 | TiJOS Application Development Guide      | <http://dev.tijos.net/manual>            |
 | TiJOS JDK API Document                   | <http://dev.tijos.net/javadoc>           |
 | TiJOS Development Enviornment Setup Guide | <http://dev.tijos.net/setup>             |
-| TiJOS JDK Software Examples              | <https://github.com/tijosnet/tijos-software-example> |
-| TiJOS Hardware Access Examples           | <https://github.com/tijosnet/tijos-hardware-example> |
+| TiJOS JDK Software Examples              | <https://github.com/TiJOSteam/tijos-software-example> |
+| TiJOS Hardware Access Examples           | <https://github.com/TiJOSteam/tijos-hardware-example> |
 | TiKit-T600-ESP8266A Development Kit Manual | <http://dev.tijos.net/tikit/tikit-t600-esp8266a/> |
 |                                          |                                          |

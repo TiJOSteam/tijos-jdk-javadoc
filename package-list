@@ -16,6 +16,7 @@ tijos.framework.sensor.infrared
 tijos.framework.transducer.buzzer
 tijos.framework.transducer.led
 tijos.framework.transducer.relay
+tijos.util
 tijos.util.base64
 tijos.util.crc
 tijos.util.json

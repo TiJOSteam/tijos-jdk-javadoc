@@ -10,6 +10,7 @@ tijos.framework.platform
 tijos.framework.sensor.button
 tijos.framework.sensor.distance
 tijos.framework.sensor.gas
+tijos.framework.sensor.general
 tijos.framework.sensor.humiture
 tijos.framework.sensor.infrared
 tijos.framework.transducer.buzzer

@@ -1,4 +1,3 @@
-tijos.framework
 tijos.framework.devicecenter
 tijos.framework.eventcenter
 tijos.framework.font
@@ -8,13 +7,15 @@ tijos.framework.networkcenter
 tijos.framework.ota
 tijos.framework.platform
 tijos.framework.sensor.button
-tijos.framework.sensor.distance
-tijos.framework.sensor.gas
+tijos.framework.sensor.dht
+tijos.framework.sensor.ds18b20
 tijos.framework.sensor.general
-tijos.framework.sensor.humiture
-tijos.framework.sensor.infrared
+tijos.framework.sensor.hcsr
+tijos.framework.sensor.mq
+tijos.framework.sensor.vs1838b
 tijos.framework.transducer.buzzer
 tijos.framework.transducer.led
+tijos.framework.transducer.oled
 tijos.framework.transducer.relay
 tijos.util
 tijos.util.base64

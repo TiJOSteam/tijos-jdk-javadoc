@@ -193,12 +193,15 @@ The other large part of the framework class in the TiJOS JDK is to operate on ha
 | tijos.framework.networkcenter     | Network center class, management network related configuration and status, such as: WLAN, DNS, etc |
 | tijos.framework.devicecenter      | Device bus related classes, such as GPIO I2C, PWM, etc., can be used to develop the sensor which is not supported in the standard library |
 | tijos.framework.sensor.button     | Button classes                           |
-| tijos.framework.sensor.distance   | Range detection classes                  |
-| tijos.framework.sensor.gas        | Gas sensing classes                      |
-| tijos.framework.sensor.humiture   | Temperature and humidity sensing classes |
-| tijos.framework.sensor.infrared   | Infrared classes                         |
+| tijos.framework.sensor.hscr   | HS-CR04 range detection sensor classes                  |
+| tijos.framework.sensor.mq        | MQ-x gas sensing classes                      |
+| tijos.framework.sensor.dht   | DHT-11 temperature and humidity sensing classes |
+| tijos.framework.sensor.ds18b20   | DS18B20 temperature sensing classes |
+| tijos.framework.sensor.vs1838b   | VS1838BNEC infrared sensor classes                         |
+| tijos.framework.sensor.general        | General sensor classes                      |
 | tijos.framework.transducer.buzzer | Buzzer classse                           |
 | tijos.framework.transducer.led    | LED display classes                      |
+| tijos.framework.transducer.oled    | OLED display classes                      |
 | tijos.framework.transducer.relay  | Relay classes                            |
 | tijos.framework.net.ntp           | Network time protocol client class       |
 | tijos.framework.net.mqtt          | MQTT3.1.1 client                         |
@@ -217,3 +220,4 @@ The other large part of the framework class in the TiJOS JDK is to operate on ha
 | TiJOS Community                | <http://bbs.tijos.net>      |
 | TiJOS Document Resource Center | <http://www.tijos.net/docs> |
 |                                |                             |
+

@@ -1,3 +1,10 @@
+java.io
+java.lang
+java.lang.annotation
+java.math
+java.net
+java.text
+java.util
 tijos.framework
 tijos.framework.appcenter
 tijos.framework.devicecenter

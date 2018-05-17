@@ -9,14 +9,15 @@ tijos.framework
 tijos.framework.appcenter
 tijos.framework.devicecenter
 tijos.framework.eventcenter
-tijos.framework.networkcenter
+tijos.framework.networkcenter.dns
 tijos.framework.networkcenter.mqtt
 tijos.framework.networkcenter.ntp
 tijos.framework.platform
 tijos.framework.platform.peripheral
-tijos.framework.text
+tijos.framework.platform.wlan
 tijos.framework.util
 tijos.framework.util.base64
 tijos.framework.util.crc
 tijos.framework.util.json
 tijos.framework.util.logging
+tijos.framework.util.text
